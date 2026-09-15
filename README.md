@@ -2,7 +2,7 @@
 
 PhD candidate at the University of Hamburg (Institute of Experimental Physics, group of Gregor Kasieczka), working on generative models for fast calorimeter simulation. I work on making one generative shower model reusable across calorimeter geometries. Pre-trained on several detectors, it adapts to a new one with two orders of magnitude fewer Geant4 showers than a model trained from scratch.
 
-[INSPIRE](https://inspirehep.net/authors/3080236) · [ORCID](https://orcid.org/0009-0007-0080-8738) · [Hugging Face](https://huggingface.co/FLC-QU-hep) · [LinkedIn](https://www.linkedin.com/in/lorenzo-valente-491881201) · lorenzo.valente@uni-hamburg.de
+[Website](https://lorenzovalente3.github.io/research/) · [INSPIRE](https://inspirehep.net/authors/3080236) · [ORCID](https://orcid.org/0009-0007-0080-8738) · [Hugging Face](https://huggingface.co/FLC-QU-hep) · [LinkedIn](https://www.linkedin.com/in/lorenzo-valente-491881201) · lorenzo.valente@uni-hamburg.de
 
 #### Papers
 
