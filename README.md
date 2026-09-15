@@ -17,4 +17,5 @@ PhD candidate at the University of Hamburg (Institute of Experimental Physics, g
 - [AllShowers](https://github.com/FLC-QU-hep/AllShowers/tree/multi-geometry) and [PointCountFM](https://github.com/FLC-QU-hep/PointCountFM/tree/multi-geometry): the multi-geometry pre-training and transfer code of arXiv:2608.18233 (branch `multi-geometry`), weights on [Hugging Face](https://huggingface.co/FLC-QU-hep).
 - [CaloTransfer](https://github.com/FLC-QU-hep/CaloTransfer): code of the JINST cross-geometry transfer paper.
 - [ddFastSim](https://github.com/fast-sim/ddFastSim): DD4hep fast simulation framework (CERN). I develop the mesh sensitive detector extensions used for the datasets above ([PR #2](https://github.com/fast-sim/ddFastSim/pull/2)).
+- [JointVAE4AD](https://github.com/LorenzoValente3/JointVAE4AD): joint continuous and discrete VAE for anomaly detection, code of the PoS 2023 paper.
 - [Autoencoder-for-FPGA](https://github.com/LorenzoValente3/Autoencoder-for-FPGA): quantization-aware autoencoder deployed with hls4ml, from my master's work.
