@@ -1,6 +1,6 @@
 <a href="https://lorenzovalente3.github.io/research/"><img src="banner.svg" width="100%" alt="Lorenzo Valente, particle showers crossing a calorimeter"></a>
 
-I work in the group of Gregor Kasieczka on making one generative shower model reusable across calorimeter geometries. Pre-trained on several detectors, it adapts to a new one with two orders of magnitude fewer Geant4 showers than a model trained from scratch.
+I work on making one generative shower model reusable across calorimeter geometries. Pre-trained on several detectors, it adapts to a new one with orders of magnitude fewer Geant4 showers than a model trained from scratch.
 
 [Website](https://lorenzovalente3.github.io/research/) · [INSPIRE](https://inspirehep.net/authors/3080236) · [ORCID](https://orcid.org/0009-0007-0080-8738) · [Hugging Face](https://huggingface.co/FLC-QU-hep) · [LinkedIn](https://www.linkedin.com/in/lorenzo-valente-491881201)
 
