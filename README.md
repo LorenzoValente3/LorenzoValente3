@@ -6,7 +6,7 @@ I work on making one generative shower model reusable across calorimeter geometr
 
 #### Selected papers and code
 
-- [Transferable Fast Calorimeter Shower Generation via Multi-Geometry Pre-training](https://arxiv.org/abs/2608.18233), accepted in JINST.\
+- [Transferable Fast Calorimeter Shower Generation via Multi-Geometry Pre-training](https://doi.org/10.1088/1748-0221/21/10/P10041), JINST 21 (2026) P10041.\
   Code: [AllShowers](https://github.com/FLC-QU-hep/AllShowers/tree/multi-geometry) and [PointCountFM](https://github.com/FLC-QU-hep/PointCountFM/tree/multi-geometry), weights on [Hugging Face](https://huggingface.co/FLC-QU-hep).
 
 - [Cross-Geometry Transfer Learning in Fast Electromagnetic Shower Simulation](https://doi.org/10.1088/1748-0221/21/07/P07037), JINST 21 (2026) P07037.\
